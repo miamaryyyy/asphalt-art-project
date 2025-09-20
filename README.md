@@ -32,4 +32,4 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   Something about my code that I would change next time is make th painters all end at one corner instead of staying on the painting.
+   Something about my code that I would change next time is make the painters all end at one corner instead of staying on the painting.
