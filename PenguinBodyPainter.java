@@ -1,7 +1,7 @@
 import org.code.neighborhood.*;
 public class PenguinBodyPainter extends PainterPlus {
 
-  /*paints the outline of the penguins body*/
+  //paints the outline of the penguins body
    public void paintOutline(String color) {
     turnRight();
     move();

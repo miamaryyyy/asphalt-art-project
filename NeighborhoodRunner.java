@@ -14,20 +14,20 @@ public class NeighborhoodRunner {
     mia.setPaint(1000);
     mia.paintBackground("pink");
 
-  /*makes the outline of the penguins body*/
+  //makes the outline of the penguins body
     
     mary.paintOutline("black");
     
   /*paints the penguins arms*/
     k.paintArms("black");
  
-    /*paints the penguins stomach*/
+    //paints the penguins stomach
     h.paintStomach("white");
     
   /*paints penguins toes*/
     h.paintToes("orange");
 
-  /*paints the eyes and the mouth*/
+  //paints the eyes and the mouth
     f.paintEyes("white");
     f.paintMouth("orange");
   }

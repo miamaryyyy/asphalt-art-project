@@ -42,7 +42,7 @@ public class StomachPainter extends PainterPlus {
 
       
     }
-  /*Paints the penguins feet orange*/
+  //Paints the penguins feet orange
 
   public void paintToes(String color) {
     setPaint(2);

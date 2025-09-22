@@ -2,7 +2,7 @@ import org.code.neighborhood.*;
 
 public class FacePainter extends PainterPlus{
 
-  /*paints the penguins eyes*/
+  //paints the penguins eyes
   public void paintEyes(String color) {
     setPaint(2);
     move();
